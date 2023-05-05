@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Miami landing page",
   "main": "index.js",
+  "homepage": "https://masha-girya.github.io/bike-landing",
   "scripts": {
     "init": "mate-scripts init",
     "start": "mate-scripts start",
